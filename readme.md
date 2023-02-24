@@ -4,7 +4,10 @@ Code based on the following article
 
 https://medium.com/social-impact-analytics/extract-text-from-unsearchable-pdfs-for-data-analysis-using-python-a6a2ca0866dd
 
-Mac : brew install tesseract
+Mac : 
+brew install tesseract
+brew install poppler
+
 
 pip install ocrmypdf
 pip install pytesseract
